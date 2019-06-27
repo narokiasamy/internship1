@@ -1,4 +1,4 @@
 import sqlite3
 
-con = sqlite3.connect("mydatabse.db")
+con = sqlite3.connect("userdb.db")
 cursorObj = con.cursor()
