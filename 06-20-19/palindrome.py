@@ -1,3 +1,5 @@
+import requests
+
 # whether string or integer, program should see if it is a palindrome
 palindrome = input("Enter word/number to see if it is a palindrome: ")
 

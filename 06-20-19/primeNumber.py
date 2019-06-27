@@ -19,7 +19,6 @@ elif (number > 1):
       break
     elif (number % i == 0):
       print ("Your number is not a prime number!")
-      print ("git")
       break
     else:
       continue

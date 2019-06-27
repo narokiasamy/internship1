@@ -13,4 +13,3 @@ elif "F" in temperature:
   print (str(celsiusCalculation) + "C")
   print (temperature)
 
-
